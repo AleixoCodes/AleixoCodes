@@ -12,8 +12,9 @@ Embora ainda esteja no início da minha jornada, sou movido pela curiosidade e p
 ---
 
 ## 📂 Projetos
-- 🐍 [Análise de Dados em Python](https://github.com/AleixoCodes/Analise-de-dados-bibliotecarios) (Em andamento...)  
+- 🐍 [Análise de Dados em Python](https://github.com/AleixoCodes/Analise-de-dados-bibliotecarios) (Em andamento...)
 - 🎮 [Jogo da Velha em C](https://github.com/AleixoCodes/Atividades-em-C)
+- ☕ [Conceitos de Programação Orientada à Objetos aplicadas em Java](https://github.com/AleixoCodes/Aplicando_conhecimento_de_POO_em_Java)
 
 ---
 
