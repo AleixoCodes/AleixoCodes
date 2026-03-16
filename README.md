@@ -35,9 +35,10 @@
 </h2>
 
 ## 📂 Projetos
+- 📊 [Projeto Dados Ecommerce](https://github.com/AleixoCodes/Projeto-Ecommerce)
 - 🐍 [Análise Exploratória de Dados em Python](https://github.com/AleixoCodes/Analise-de-dados-bibliotecarios)
-- 🎮 [Jogo da Velha em C](https://github.com/AleixoCodes/Atividades-em-C)
 - ☕ [Conceitos de Programação Orientada à Objetos aplicadas em Java](https://github.com/AleixoCodes/Aplicando_conhecimento_de_POO_em_Java)
+- 🎮 [Jogo da Velha em C](https://github.com/AleixoCodes/Atividades-em-C)
 
 
 ## 🌐 Onde me encontrar
