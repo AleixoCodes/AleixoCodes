@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, sou Aleixo e bem-vido(a) ao meu perfil.</h1>
+<h1 align="center">🤜 Olá, sou Aleixo e bem-vido(a) ao meu perfil! 🤛</h1>
 
 <p align="center">
 <em>🎓 Estudante de Ciência de Dados e Inteligência Artificial no Senai Cimatec (4º semestre)<em>
