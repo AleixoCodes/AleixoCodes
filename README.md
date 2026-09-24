@@ -1,13 +1,13 @@
 <h1 align="center">🤜 Olá, sou Aleixo e bem-vido(a) ao meu perfil! 🤛</h1>
 
 <p align="center">
-<em>🎓 Estudante de Ciência de Dados e Inteligência Artificial no Senai Cimatec (4º semestre)<em>
+<em>🎓 Estudante de Ciência de Dados e Inteligência Artificial no Senai Cimatec (5º semestre)<em>
 </p>
 
 ---
 
 💻 Entusiasta em Inteligência Artificial e movido pela paixão em transformar dados em insights valiosos, resolvi estudar a fundo a área de dados para inovar o mundo tech!  
-🚀 Pretendo atuar profissionalmente em breve nas áreas de: **Cientista de dados / Desenvolvedor Backend**  
+🚀 Atualmente trabalhando como **Desenvolvedor FullStack** no **SENAI CIMATEC**.   
 🧠 Sempre animado para aprender e aplicar novas tecnologias.
 
 ---
